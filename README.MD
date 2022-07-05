@@ -1,3 +1,4 @@
 # Nestjs From Scratch
 
-A ideia desse projeto foi criar um projeto simples com nestjs, sem uso da cli, configurando do 0 apenas com os principais pacotes e assim entender um pouco mais de como o nest funciona por baixo dos panos. Compreendendo principalmente a estrutura basica de um projeto nest.
+The idea of this project was to create a simple project with nest, without using the CLI, configuring from scratch only the main packages and thus understanding a little more about how nest works under the hood—understanding mainly the basic structure of a nest project.
+
